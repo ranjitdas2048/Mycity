@@ -1,0 +1,3 @@
+[submodule "Myuilding"]
+	path = Myuilding
+	url = git@github.com:ranjitdas2048/Myuilding.git
